@@ -1,9 +1,9 @@
 # marathon-training-app
 
-🏃‍♀️ Marathon Training Plan Generator
+Marathon Training Plan Generator
 A Streamlit web app that creates a personalized marathon training plan based on your current fitness level, goals, and timeline. It also calculates your daily calorie targets based on your activity level, weight goals, and Basal Metabolic Rate (BMR).
 
-🚀 Features
+Features
 Generate a day-by-day marathon training plan
 
 Supports personalized inputs:
@@ -26,7 +26,7 @@ Daily calorie targets to support gradual weight loss
 
 Export training plan as CSV or Excel
 
-🧠 How It Works
+How It Works
 Training Plan
 
 Custom weekly schedule with long runs, tempo runs, easy runs, rest days, and tapering
@@ -39,12 +39,12 @@ Uses your weight, height, age, gender, and activity level to estimate daily calo
 
 Includes a calculated deficit based on your goal weight and timeline
 
-🔧 Tech Stack
+Tech Stack
 Python
 Streamlit
 Pandas
 
-🛠️ Installation
+Installation
 Clone the repository:
 git clone https://github.com/your-username/your-repo-name.git
 
@@ -60,18 +60,18 @@ pip install -r requirements.txt
 Run the app:
 streamlit run app.py
 
-📁 Project Structure
+Project Structure
 ├── app.py              # Streamlit app source code
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
 
-✅ To Do
+To Do
 Add user authentication
 Add more export formats (PDF)
 Enable dynamic pace adjustment based on progress
 Add running phase
 Updates to recommended running routines and daily calorie intake
 
-📄 License
+License
 This project is open-source under the MIT License.
 
